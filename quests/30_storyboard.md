@@ -87,4 +87,4 @@
 
 ## SPEECH WAV
 
-- [감정대사](https://github.com/futureleadet/toylearn_AI_multimedias/blob/main/prompt_games/30_storyboard.wav)
+- [감정대사](https://github.com/futureleadet/toylearn_AI_multimedias/blob/main/quests/30_storyboard.wav)
