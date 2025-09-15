@@ -1,7 +1,7 @@
 ## 계절별 와인 추천 쇼츠 제작
 
 - [1차 스크립트 생성](https://gemini.google.com/app/3706b53407a4e6cf?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page&hl=ko&_gl=1*mnfq39*_up*MQ..*_ga*MTYwODM1NDY2Ny4xNzU3NTUzNDA2*_ga_WC57KJ50ZZ*czE3NTc1NTM0MDYkbzEkZzAkdDE3NTc1NTM0MDYkajYwJGwwJGgw&gclid=Cj0KCQjww4TGBhCKARIsAFLXndRkwNArnxjg9YhLG6Rh1tgWu6nMRCy-hSsi-IGUU9NUqAzcoJVw17AaAh9XEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAApk5BhnVNi6AFUxWo_wTE_Iu8QhZC) 
-- [이미지생성은 아직 기다려]
+- [이미지생성은 다른 아이디로](https://gemini.google.com/u/1/app/bf64c6396350ebec?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page&hl=ko&_gl=1*mnfq39*_up*MQ..*_ga*MTYwODM1NDY2Ny4xNzU3NTUzNDA2*_ga_WC57KJ50ZZ*czE3NTc1NTM0MDYkbzEkZzAkdDE3NTc1NTM0MDYkajYwJGwwJGgw&gclid=Cj0KCQjww4TGBhCKARIsAFLXndRkwNArnxjg9YhLG6Rh1tgWu6nMRCy-hSsi-IGUU9NUqAzcoJVw17AaAh9XEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAApk5BhnVNi6AFUxWo_wTE_Iu8QhZC)
 
 
 ## 스크립터 예시
