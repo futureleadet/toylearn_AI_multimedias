@@ -30,5 +30,5 @@ The value of x is approximately 546.13.
 
 ## 생성 파일
 
-- [1:1] :
-- [15:8] 
+- [1:1](https://github.com/futureleadet/toylearn_AI_multimedias/blob/main/quests/Sequence_1to1.mp4)
+- [15:8](https://github.com/futureleadet/toylearn_AI_multimedias/blob/main/quests/Sequence_15to8.mp4)
