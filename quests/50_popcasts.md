@@ -5,6 +5,7 @@
 - [캐릭터2](https://labs.google/fx/tools/whisk/share/62fad3dhp0000) : 독앵커
 - [출처 사진 1](https://www.worldhistory.org/uploads/images/283.jpg?v=1677788823-0) 
 - [출처 사진 2](https://archive.aramcoworld.com/issue/201406/images/cuisine/B_Sp1_main_HIGH_RES_BL_751401_lg.jpg)
+- [출처 사진 3](https://archive.aramcoworld.com/issue/201406/images/cuisine/O_sp4L_HIGH_RES_BL_751431_sherbet_detail3_sm.jpg)
 
 
 ## 대본 3000자
