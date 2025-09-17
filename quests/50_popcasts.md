@@ -3,6 +3,7 @@
 - [제미나이 기획](https://gemini.google.com/app/09b8878ee5a8ebfd?android-min-version=301356232&ios-min-version=322.0&is_sa=1&campaign_id=gemini_overview_page&utm_source=gemini&utm_medium=web&utm_campaign=gemini_overview_page&pt=9008&mt=8&ct=gemini_overview_page&hl=ko&_gl=1*mnfq39*_up*MQ..*_ga*MTYwODM1NDY2Ny4xNzU3NTUzNDA2*_ga_WC57KJ50ZZ*czE3NTc1NTM0MDYkbzEkZzAkdDE3NTc1NTM0MDYkajYwJGwwJGgw&gclid=Cj0KCQjww4TGBhCKARIsAFLXndRkwNArnxjg9YhLG6Rh1tgWu6nMRCy-hSsi-IGUU9NUqAzcoJVw17AaAh9XEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAApk5BhnVNi6AFUxWo_wTE_Iu8QhZC) 
 - [캐릭터1](https://labs.google/fx/tools/whisk/share/58k1af7a00000) : 척척 박사
 - [캐릭터2](https://labs.google/fx/tools/whisk/share/62fad3dhp0000) : 독앵커
+- [배경 이미지](https://labs.google/fx/tools/whisk/share/04ld5hn850000) : 도서관
 - [출처 사진 1](https://www.worldhistory.org/uploads/images/283.jpg?v=1677788823-0) 
 - [출처 사진 2](https://archive.aramcoworld.com/issue/201406/images/cuisine/B_Sp1_main_HIGH_RES_BL_751401_lg.jpg)
 - [출처 사진 3](https://archive.aramcoworld.com/issue/201406/images/cuisine/O_sp4L_HIGH_RES_BL_751431_sherbet_detail3_sm.jpg)
