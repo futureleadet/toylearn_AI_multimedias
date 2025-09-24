@@ -43,8 +43,8 @@
 
 - [술도령](https://labs.google/fx/tools/whisk/share/7hfdalckl0000)
 ```
-A round, plump middle-aged man in his 50s stands wearing a traditional black Korean hat and a modern white shirt, smiling warmly.
-He holds a small traditional wine cup in one hand, and a simple wooden table sits before him.
-Character design style: 3D, cinematic lighting, clean background.
-Character Design Style: Semi-realism, vibrant colors, cinematic lighting, clean background.
+A friendly Korean man in his 30s, wearing a traditional black "gat" (Korean hat) and a modern white shirt, standing with a warm smile. 
+He is holding a small traditional liquor glass in one hand, rustic wooden table in front of him. 
+Character design style: semi-realistic, vibrant colors, cinematic lighting, clean background.
+
 ```
