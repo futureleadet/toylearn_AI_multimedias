@@ -16,6 +16,7 @@
 ## 캐릭터 (Whisk)
 - [딸](https://labs.google/fx/ko/tools/whisk/share/4uehi7ajgg000)
 - [딸바보김선장](https://labs.google/fx/ko/tools/whisk/share/3bvm3fk3r0000)
+- [어선](https://labs.google/fx/ko/tools/whisk/share/1uca26fbs0000)
 
 ## AI활용도구 소개
 - 스토리보드 생성 : Google NotebookLM
