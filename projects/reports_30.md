@@ -11,7 +11,7 @@
 - [바로가기](https://docs.google.com/spreadsheets/d/1G7WHEH0aEfGOT0PDBqw38ReAOmcTJ7vN94DXSe6yJA4/edit?gid=1303793400#gid=1303793400)
 
 ## 스토리보드
-- [바로가기](https://docs.google.com/spreadsheets/d/1G7WHEH0aEfGOT0PDBqw38ReAOmcTJ7vN94DXSe6yJA4/edit?usp=sharing)
+- [바로가기](https://docs.google.com/spreadsheets/d/1G7WHEH0aEfGOT0PDBqw38ReAOmcTJ7vN94DXSe6yJA4/edit?gid=285339751#gid=285339751)
 
 ## 캐릭터 (Whisk)
 - [딸](https://labs.google/fx/ko/tools/whisk/share/4uehi7ajgg000)
